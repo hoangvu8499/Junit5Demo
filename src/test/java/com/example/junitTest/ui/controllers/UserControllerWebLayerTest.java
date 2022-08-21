@@ -68,7 +68,7 @@ public class UserControllerWebLayerTest {
         Assertions.assertEquals(userDetailsRequestModel.getFirstName(), createdUser.getFirstName(), "The return user first name is most likely");
         // Lastname, emai same like this
 
-    }
+    }test
 
     @Test
     @DisplayName("First name can not shorter more than 2 characters")
