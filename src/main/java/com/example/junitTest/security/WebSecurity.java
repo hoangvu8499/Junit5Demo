@@ -1,6 +1,6 @@
 package com.example.junitTest.security;
 
-import com.appsdeveloperblog.tutorials.junit.io.UsersRepository;
+import com.example.junitTest.io.UsersRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.HttpMethod;
